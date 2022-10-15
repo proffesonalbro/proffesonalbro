@@ -80,21 +80,5 @@ while True:
         print('athar card number - ' + str(A7))
         print('voter card number - ' + str(A8))
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+    #you can add furder you want. By following this steps.
+    #its second part wil be soon.....
